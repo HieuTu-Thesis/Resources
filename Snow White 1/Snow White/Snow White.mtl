@@ -1,0 +1,24 @@
+# Blender3D MTL File: Snow White.blend
+# Material Count: 2
+newmtl RefRep.250_Snow_White_Face_Textu
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.558431 0.558431 0.558431
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Snow White Face Texture.png
+
+
+newmtl RefRep.248_Snow_White_Body_Textu
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.558431 0.558431 0.558431
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Snow White Body Texture.png
+
+
