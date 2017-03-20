@@ -1,0 +1,23 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl 019e70db.dds
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+map_Kd 019e70db.dds
+map_d 019e70db.dds
+#
+newmtl d7983e2e.dds
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+map_Kd d7983e2e.dds
+map_d d7983e2e.dds
+#
+# EOF
